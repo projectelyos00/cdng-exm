@@ -1,13 +1,11 @@
-# Coding Exam
-Coding exam for the position of a Junior integration Developer.
+# Payment System Coding Challenge
 
-
-# Prerequisites
+## Prerequisites
  * Any Browser
+ * Visual Studio 2019
 
-# How to run the code.
-1. Run the program "web-app.sln"
+## How to run the code.
+1. Run the file "web-app.sln"
 2. Restore nugget
 3. Run the program.
 
- 
