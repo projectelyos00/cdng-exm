@@ -19,7 +19,7 @@ namespace web_api.Controllers
         // GET: api/accountBalances
         public IQueryable<accountBalance> GetaccountBalances()
         {
-            return db.accountBalances.AsQueryable();
+            return db.accountBalances;
         }
 
         // GET: api/accountBalances/5
