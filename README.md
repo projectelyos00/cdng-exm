@@ -1,4 +1,4 @@
-# Payment System Coding Challenge
+# Pay-Sys
 
 ## Prerequisites
  * Any Browser
